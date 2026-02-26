@@ -10,7 +10,7 @@
 
 ## Informações para melhor entendimento:
  - A pasta Dashborad_xbox_DIO possuí 3 arquivos: O README.md, o dashboard.xlsx e a base_de_dados.xlsx
- - O projeto em si é a criação de um Dashboard eficiente, no qual é interativo e objetivo.
+ - O projeto em si é a criação de um Dashboard eficiente, possibilitando interatividade e objetividade.
 - Foi usado o arquivo base_de_dados.xlsx para a criação do dashboard.
 
 ## Clique no ícone e entre em contato comigo:
