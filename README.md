@@ -1,17 +1,57 @@
-![programming_resized_1024x350](https://github.com/user-attachments/assets/cec5e412-51b5-4163-a7ed-98a2e4a3b58b)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Seja+Bem-Vindo!;Sou+o+Eduardo+Holanda!)](https://git.io/typing-svg)
+# 📊 Dashboard Interativo – DIO
+
+Este projeto consiste na criação de um **Dashboard eficiente e interativo**, desenvolvido a partir de uma base de dados em Excel. O objetivo é facilitar a análise de informações de forma clara, objetiva e visualmente atraente.
+
+---
+
+## 📂 Estrutura do Projeto
+
+A pasta `Dashboard_xbox_DIO` contém os seguintes arquivos:
+
+- **README.md** → Documentação do projeto  
+- **dashboard.xlsx** → Dashboard interativo pronto para uso  
+- **base_de_dados.xlsx** → Fonte de dados utilizada para construção do dashboard  
+
+---
+
+## 🚀 Funcionalidades
+
+- Visualização dinâmica dos principais indicadores  
+- Gráficos interativos para análise rápida  
+- Estrutura simples e objetiva para facilitar a tomada de decisão  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Excel** (Power Query, Tabelas Dinâmicas, Gráficos Interativos)  
+- **Análise de Dados** aplicada à construção de dashboards  
+
+---
+
+## 📖 Como Utilizar
+
+1. Baixe os arquivos disponíveis neste repositório.  
+2. Abra o arquivo `dashboard.xlsx`.  
+3. Explore os gráficos e indicadores interativos.  
+4. Caso queira atualizar os dados, substitua o conteúdo em `base_de_dados.xlsx` e atualize o dashboard.  
+
+---
 
 
+## 📌 Roadmap
 
-   # 👩🏻‍💻 Eduardo Holanda  
-   `Cientista de Dados` 
-   `Desenvolvedor Back-end`
-   <br><br>
+- [ ] Adicionar novas métricas de análise  
+- [ ] Criar versão em Power BI  
+- [ ] Disponibilizar versão online para acesso rápido  
 
-## Informações para melhor entendimento:
- - A pasta Dashborad_xbox_DIO possuí 3 arquivos: O README.md, o dashboard.xlsx e a base_de_dados.xlsx
- - O projeto em si é a criação de um Dashboard eficiente, possibilitando interatividade e objetividade.
-- Foi usado o arquivo base_de_dados.xlsx para a criação do dashboard.
+---
+
+## 👨‍💻 Autor
+
+**Eduardo Holanda**  
+Cientista de Dados | Desenvolvedor Back-end  
+
 
 ## Clique no ícone e entre em contato comigo:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-holanda-jacinto-39b822321/)
