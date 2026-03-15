@@ -4,7 +4,7 @@ Este projeto consiste na criação de um **Dashboard eficiente e interativo**, d
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto:
 
 A pasta `Dashboard_xbox_DIO` contém os seguintes arquivos:
 
@@ -14,7 +14,7 @@ A pasta `Dashboard_xbox_DIO` contém os seguintes arquivos:
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidades:
 
 - Visualização dinâmica dos principais indicadores  
 - Gráficos interativos para análise rápida  
@@ -22,14 +22,14 @@ A pasta `Dashboard_xbox_DIO` contém os seguintes arquivos:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas:
 
 - **Excel** (Power Query, Tabelas Dinâmicas, Gráficos Interativos)  
 - **Análise de Dados** aplicada à construção de dashboards  
 
 ---
 
-## 📖 Como Utilizar
+## 📖 Como Utilizar:
 
 1. Baixe os arquivos disponíveis neste repositório.  
 2. Abra o arquivo `dashboard.xlsx`.  
@@ -39,7 +39,7 @@ A pasta `Dashboard_xbox_DIO` contém os seguintes arquivos:
 ---
 
 
-## 📌 Roadmap
+## 📌 Roadmap:
 
 - [ ] Adicionar novas métricas de análise  
 - [ ] Criar versão em Power BI  
